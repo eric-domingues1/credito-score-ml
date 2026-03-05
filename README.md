@@ -47,7 +47,6 @@ O modelo **Random Forest** apresentou melhor desempenho, com aproximadamente **8
 ---
 
 ## 📂 Estrutura do Projeto
-## 📂 Estrutura do Projeto
 
 credito-score-ml
 │
