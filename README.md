@@ -46,8 +46,10 @@ O modelo **Random Forest** apresentou melhor desempenho, com aproximadamente **8
 
 ---
 
+
 ## 📂 Estrutura do Projeto
 
+```
 credito-score-ml
 │
 ├── dados
@@ -58,3 +60,4 @@ credito-score-ml
 │
 ├── README.md
 └── requirements.txt
+```
